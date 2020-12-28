@@ -3,8 +3,6 @@ import './App.css';
 import React from 'react';
 import './App.scss';
 import { Navbar, Nav, NavDropdown, Form,  FormControl, Button, Table} from 'react-bootstrap';
-import { Button } from 'react-bootstrap';
-
 function App() {
   return (
     <div className="App">
