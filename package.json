@@ -4,5 +4,8 @@
   "main": "yes",
   "repository": "yes",
   "author": "yes",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-scripts": "^4.0.1"
+  }
 }
